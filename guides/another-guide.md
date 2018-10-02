@@ -1,4 +1,4 @@
 ---
-title: fun 2
+title: '# fun 2'
 ---
 this is fun 2
