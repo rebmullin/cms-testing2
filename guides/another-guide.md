@@ -1,4 +1,4 @@
 ---
-title: another guide
+title: fun 2
 ---
-this is fun
+this is fun 2
